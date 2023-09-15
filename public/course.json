@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "title": "Introduction to C Programming",
+        "description": "Get started with the fundamentals of the C programming language. Learn about variables, loops, and functions.",
+        "cover_photo": "https://i.ibb.co/Ptb9Mf3/01c-program.png",
+        "credit": "John Doe",
+        "timeInHours": 1,
+        "price": 149.99
+    },
+    {
+        "id": 2,
+        "title": "Introduction to Algorithms",
+        "description": "Explore the world of algorithms and their applications. Understand sorting, searching, and graph algorithms.",
+        "cover_photo": "https://i.ibb.co/zmvJHWM/02algorithm.png",
+        "credit": "Jane Smith",
+        "timeInHours": 2,
+        "price": 199.99
+    },
+    {
+        "id": 3,
+        "title": "Introduction to C++ for DSA",
+        "description": "Learn C++ programming in the context of Data Structures and Algorithms (DSA). Covers pointers, linked lists, and trees.",
+        "cover_photo": "https://i.ibb.co/26V7pyN/03c.png",
+        "credit": "Michael Johnson",
+        "timeInHours": 10,
+        "price": 249.99
+    },
+    {
+        "id": 4,
+        "title": "Basic Data Structures",
+        "description": "Master the fundamental data structures, including arrays, stacks, queues, and linked lists.",
+        "cover_photo": "https://i.ibb.co/cY3qGxJ/04data.png",
+        "credit": "Emily Wilson",
+        "timeInHours": 5,
+        "price": 99.99
+    },
+    {
+        "id": 5,
+        "title": "Introduction to OOP Python",
+        "description": "Dive into object-oriented programming (OOP) using Python. Learn about classes, objects, and inheritance.",
+        "cover_photo": "https://i.ibb.co/NnbTz5N/05python.png",
+        "credit": "David Brown",
+        "timeInHours": 5,
+        "price": 129.99
+    },
+    {
+        "id": 6,
+        "title": "Software Engineering",
+        "description": "Explore the principles and practices of software engineering. Covers development methodologies and project management.",
+        "cover_photo": "https://i.ibb.co/Lz79P61/06softoware.png",
+        "credit": "Sophia Martinez",
+        "timeInHours": 2,
+        "price": 299.99
+    },
+    {
+        "id": 7,
+        "title": "AWS, Cloud Computing",
+        "description": "Learn about Amazon Web Services (AWS) and cloud computing. Understand cloud infrastructure and services.",
+        "cover_photo": "https://i.ibb.co/HtQLS4F/07aws.png",
+        "credit": "William Anderson",
+        "timeInHours": 5,
+        "price": 269.99
+    },
+    {
+        "id": 8,
+        "title": "Database (MySQL)",
+        "description": "Discover the basics of MySQL databases. Covers database design, SQL queries, and data manipulation.",
+        "cover_photo": "https://i.ibb.co/DLFr4Qd/08mySQL.png",
+        "credit": "Olivia Taylor",
+        "timeInHours": 5,
+        "price": 179.99
+    },
+    {
+        "id": 9,
+        "title": "Problem-Solving Part",
+        "description": "Enhance your problem-solving skills. Explore algorithmic problem-solving techniques and practice coding challenges.",
+        "cover_photo": "https://i.ibb.co/m9vpMZr/09problem.png",
+        "credit": "Daniel Lee",
+        "timeInHours": 2,
+        "price": 149.99
+    }
+]
